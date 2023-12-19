@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+  }
+
+  .main{
+    background-color: white;
+    display: flex;
+  }
+
+  .container{
+    flex: 10;
+  }
+
+  .maincontainer{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 1;
+  }
+
+
+  .contentContainer{
+    padding: 10px 0;
+    margin-left: 20px;
+    z-index: -1;
+ 
+
+  }
+
