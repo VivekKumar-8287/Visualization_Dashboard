@@ -13,9 +13,7 @@ Copy git link and run git clone command in your local IDE
 
 ### Install Dependencies
 Navigate to both the backend and frontend folders in your terminal.
-
-
-
+[Backend](https://reactjs.org/https://visual-dase-data.netlify.app/.netlify/functions/api/data) Click this to see backend.
 cd backend
 npm install
 
