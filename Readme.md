@@ -1,14 +1,17 @@
-#Visualization Dashboard
+# Visualization Dashboard
 Welcome to the Visualization Dashboard repository! This dashboard provides an interactive visualization of data using a backend and frontend architecture.
 
-##Deployment Steps
-###Clone or Download
+https://github.com/VivekKumar-8287/Visualization_Dashboard/assets/104918205/7ade229f-2ff9-4727-81e7-b06ec73fef26
+
+
+## Deployment Steps
+### Clone or Download
 Clone the repository using the git clone command or download the zip file.
 
 
 Copy git link and run git clone command in your local IDE
 
-###Install Dependencies
+### Install Dependencies
 Navigate to both the backend and frontend folders in your terminal.
 
 
@@ -20,8 +23,8 @@ cd ../frontend
 npm install
 
 
-##Start Local Server
-###Backend:
+## Start Local Server
+### Backend:
 
 Navigate to the backend folder.
 
@@ -29,7 +32,10 @@ Run the following command to start the local server.
 npm start
 
 
-###Frontend:
+
+
+
+### Frontend:
 
 Navigate to the frontend folder.
 Start the frontend using the following command.
